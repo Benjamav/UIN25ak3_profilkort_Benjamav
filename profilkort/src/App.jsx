@@ -1,6 +1,7 @@
 import React from "react";
 import Profilkort from "./profilkort";
 
+// App funksjon som returnerer Profilkort som et komponent med props.
 function App() {
   return (
     <Profilkort

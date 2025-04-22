@@ -1,6 +1,7 @@
 import React from "react";
 import "./profilkort.css";
 
+// en const som definerer ProfileCard komponentet.
 const ProfileCard = ({ name, email, imageUrl }) => {
   return (
     <div className="profile-card">
